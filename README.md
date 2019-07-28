@@ -27,7 +27,7 @@ There are four data files associated with this project provided by Arvato:
 
 Due to publicity Terms Arvato Project Workbook.ipynb is only for exploration.
 
-Blog post about this project is published on [Medium] 
+Blog post about this project is published on [Medium](https://medium.com/@olga_48248/customer-segmentation-for-arvato-financial-services-57677ba39747) 
 
 
 
