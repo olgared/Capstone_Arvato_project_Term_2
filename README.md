@@ -13,9 +13,22 @@ The project has three major steps: the customer segmentation report, the supervi
 
 ## Data
 
-There are four data files associated with this project:
+There are four data files associated with this project provided by Arvato:
 
-Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
-Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
-Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
-Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
+- Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
+- Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+- Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+- Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
+
+- feature_all.csv: Contains values for missing or unknown data for features in demographic data, created by user 294 features (rows) x 2
+(columns).
+
+## Instructions
+
+Due to publicity Terms Arvato Project Workbook.ipynb is only for exploration.
+
+Blog post about this project is published on [Medium] 
+
+## Conclusion
+
+
