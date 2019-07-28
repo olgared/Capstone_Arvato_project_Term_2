@@ -29,6 +29,6 @@ Due to publicity Terms Arvato Project Workbook.ipynb is only for exploration.
 
 Blog post about this project is published on [Medium] 
 
-## Conclusion
+
 
 
